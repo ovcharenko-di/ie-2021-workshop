@@ -53,7 +53,7 @@
   - `evilbeaver.oscript-debug`
 - с помощью командной строки установить библиотеки для OneScript:
   - `opm install opm`
-  - `opm install 1commands json 1connector 1testrunner 1bdd`
+  - `opm install 1commands json 1connector 1testrunner 1bdd oscript-config`
 - с помощью командной строки скачать docker-образы:
   - `docker pull evilbeaver/oscript-web:0.9.0`
   - `docker pull evilbeaver/onescript:1.6.0`
